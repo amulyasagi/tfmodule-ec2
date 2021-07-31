@@ -5,3 +5,8 @@ variable "subnet_1a" {}
 variable "product" {}
 variable "environment" {}
 variable "vpc_id" {}
+variable "ebssize" {}
+variable "zone" {}
+
+
+

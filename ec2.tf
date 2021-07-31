@@ -9,5 +9,3 @@ resource "aws_instance" "ec2" {
     Name = "${var.product}.${var.environment}-ec2"
   }
 }
-
-#ec2
